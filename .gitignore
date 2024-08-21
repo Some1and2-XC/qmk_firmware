@@ -1,3 +1,6 @@
+# Python environment files
+venv/
+
 # Junk files
 *.bak
 *.swp
